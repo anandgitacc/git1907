@@ -9,10 +9,17 @@ public class EmployeeDetails {
 	private void empMobile() {
 		System.out.println("8939278836");
 	}
-	
 	private void empAdd() {
 		System.out.println("employee add: OMR-chennai");
 	}
+	private void empRefId() {
+		System.out.println("employee ref id : 1111");
+	}
+//<<<<<<< HEAD
+	
+//=======
+	
+//>>>>>>> d38bc25390a65e2faf7fb6aa6056fbc2da891e08
 	
 	public static void main(String[] args) {
 		
